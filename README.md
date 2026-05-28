@@ -19,12 +19,12 @@ Stroke remains one of the most serious health issues globally.
 Healthcare organizations require better data-driven insights to identify high-risk groups and improve prevention programs.
 
 ## Objective
-•	Analyze stroke cases based on age categories.
-•	Identify smoking habits among patients.
-•	Compare stroke cases by work type.
-•	Analyze BMI and glucose trends.
-•	Build an interactive healthcare dashboard.
-•	Provide actionable recommendations for healthcare institutions.
+o	Analyze stroke cases based on age categories.
+o	Identify smoking habits among patients.
+o	Compare stroke cases by work type.
+o	Analyze BMI and glucose trends.
+o	Build an interactive healthcare dashboard.
+o	Provide actionable recommendations for healthcare institutions.
 
 ## Dataset Information
 Column	Description
