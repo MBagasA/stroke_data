@@ -1,5 +1,5 @@
 # Stroke Patient Dashboard
-Welcome to my repository.
+# Welcome to my repository.
 
 ## Project Overview
 This project analyzes stroke patient data to identify health and lifestyle factors that contribute to stroke cases.
