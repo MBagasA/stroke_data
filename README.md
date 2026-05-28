@@ -5,13 +5,13 @@
 This project analyzes stroke patient data to identify health and lifestyle factors that contribute to stroke cases.
 By utilizing interactive visualizations in Power BI, this analysis helps monitor and understand patient behavior; this project also features medical indicators associated with stroke risks.
 The project focuses on analyzing:
-•	Age segmentation
-•	Smoking lifestyle
-•	Work type
-•	Gender distribution
-•	Marital status
-•	Average glucose levels
-•	Body Mass Index (BMI)
+*	Age segmentation
+*	Smoking lifestyle
+*	Work type
+*	Gender distribution
+*	Marital status
+*	Average glucose levels
+*	Body Mass Index (BMI)
 This dashboard aims to support healthcare decision-making and stroke prevention strategies.
 
 ## Problem
@@ -19,42 +19,42 @@ Stroke remains one of the most serious health issues globally.
 Healthcare organizations require better data-driven insights to identify high-risk groups and improve prevention programs.
 
 ## Objective
-o	Analyze stroke cases based on age categories.
-o	Identify smoking habits among patients.
-o	Compare stroke cases by work type.
-o	Analyze BMI and glucose trends.
-o	Build an interactive healthcare dashboard.
-o	Provide actionable recommendations for healthcare institutions.
+*	Analyze stroke cases based on age categories.
+*	Identify smoking habits among patients.
+*	Compare stroke cases by work type.
+*	Analyze BMI and glucose trends.
+*	Build an interactive healthcare dashboard.
+*	Provide actionable recommendations for healthcare institutions.
 
 ## Dataset Information
-Column	Description
-gender	Patient's gender
-age	Patient's age
-hypertension	Hypertension status
-heart_disease	Heart disease status
-ever_marriage	Marital status
-work_type	Employment category
-smoking_status	Smoking status
-avg_glucose_level	Average glucose level
-bmi	Body Mass Index value
-stroke	Stroke diagnosis
+* Column	Description
+* gender	Patient's gender
+* age	Patient's age
+* hypertension	Hypertension status
+* heart_disease	Heart disease status
+* ever_marriage	Marital status
+* work_type	Employment category
+* smoking_status	Smoking status
+* avg_glucose_level	Average glucose level
+* bmi	Body Mass Index value
+* stroke	Stroke diagnosis
 
 ## Data Cleaning Process
 Before performing the analysis, we cleaned our data. Below are the steps we took:
-•	Removing duplicate data
-•	Checking for missing values
-•	Handling null BMI data
-•	Standardizing categorical values
-•	Converting incorrect data types
-•	Creating age segmentation categories
-•	Validating data consistency
+*	Removing duplicate data
+*	Checking for missing values
+*	Handling null BMI data
+*	Standardizing categorical values
+*	Converting incorrect data types
+*	Creating age segmentation categories
+*	Validating data consistency
 
 ## Feature Engineering
-New Column	Description
-age_segmentation:	Categorizes patients into age groups such as Children, Teenagers, Adults, Seniors, and Elderly.
-bmi_category:	Classifies BMI into Underweight, Normal, Overweight, and Obese categories.
-glucose_category:	Categorizes glucose levels into Normal, Prediabetes, and High Glucose.
-high_risk:	Indicates whether a patient falls into a high-risk stroke category based on health indicators.
+* New Column	Description
+* age_segmentation:	Categorizes patients into age groups such as Children, Teenagers, Adults, Seniors, and Elderly.
+* bmi_category:	Classifies BMI into Underweight, Normal, Overweight, and Obese categories.
+* glucose_category:	Categorizes glucose levels into Normal, Prediabetes, and High Glucose.
+* high_risk:	Indicates whether a patient falls into a high-risk stroke category based on health indicators.
 
 ## Tools 
 •	SQL
